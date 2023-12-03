@@ -1,5 +1,5 @@
 # AngryBirdsWinFormsApp
-🎮 :bird: :pig: Копия популярной игры «Angry Birds», написанная в процессе изучения технологии Windows Forms и работы со звуками и изображениями. 
+🎮 :bird: :pig: Копия популярной игры «Angry Birds», написанная в процессе изучения технологии **Windows Forms** и работы со звуками и изображениями. 
 
 <div align="center"><img src="https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/c85317dd-02d7-4df7-89a6-228cfd905dc5"></div>
 
@@ -14,7 +14,14 @@
    3. Белая птичка [3]: ![whiteBird](https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/bede4f70-ac22-47b2-8c0c-dae8fa829f51)
    4. Чёрная птичка [4]: ![blackBird](https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/c56eae06-43c9-49ab-a0ef-65d730dd94ec)
 
-Цель игры — уничтожить свинку птичкой.
+**Цель игры** — уничтожить свинку птичкой.
+
+После каждого попадания птичкой по свинке, тип свинки меняется на один из четырёх случайных видов:
+
+![pig](https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/eaf23e00-054e-44c8-97e5-1ed0b8ac6446)
+![coolPig](https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/9c652085-b846-4d94-b644-1e195ac2324b)
+![rabbitPig](https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/9b70f961-f3be-43ed-a53b-ceb0f799cfe4)
+![mexicanPig](https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/078f4f0e-2a24-4702-8fc3-a7af17ceafde)
 
 ### :fireworks: Победа
 
