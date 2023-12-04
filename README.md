@@ -44,4 +44,4 @@
 
 Структура каталога решения:
 
-![Структура каталога решения](https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/ce1aa101-b4bb-4005-9f6c-016e7b5e7c90)
+![Структура каталога решения](https://github.com/snikitin-de/AngryBirdsWinFormsApp/assets/25394427/f6857dba-8175-4a49-a621-e1818ad13c96)
